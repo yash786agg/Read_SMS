@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Read_SMS</string>
+
+    /******************* Runtime Permission *******************/
+
+    <string name="i_am_sure">I AM SURE</string>
+    <string name="re_try">RE-TRY</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="toast_for_cancelling_the_permission">Sorry you can not proceed further process</string>
+    <string name="You_need_to_Accept">You need to Accept</string>
+    <string name="permission_to_access_the_app">permissions to access the app</string>
+    <string name="RECEIVE_SMS">RECEIVE_SMS</string>
+    <string name="READ_SMS">READ_SMS</string>
+    <string name="please_manually_enter_the_otp">Please Manually Enter the OTP</string>
+    <string name="permission_auro_read_sms">Without this permission the app is unable to auto fill the OTP. Are you sure you want to Deny this permission.?</string>
+
+    /******************* Runtime Permission *******************/
+
+</resources>
